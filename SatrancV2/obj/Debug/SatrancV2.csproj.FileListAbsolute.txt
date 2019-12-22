@@ -1,0 +1,10 @@
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\bin\Debug\SatrancV2.exe.config
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\bin\Debug\SatrancV2.exe
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\bin\Debug\SatrancV2.pdb
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.csprojAssemblyReference.cache
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.Form1.resources
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.Properties.Resources.resources
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.csproj.GenerateResource.cache
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.csproj.CoreCompileInputs.cache
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.exe
+C:\Users\maski\Desktop\GITHUB\Ödev ve Rapor\SatrancV2\SatrancV2\obj\Debug\SatrancV2.pdb
